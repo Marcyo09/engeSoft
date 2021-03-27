@@ -1,0 +1,23 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marcyo09/engesoft.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marcyo09/engesoft/issues"
+  },
+  "homepage": "https://github.com/Marcyo09/engesoft#readme",
+  "keywords": [],
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
